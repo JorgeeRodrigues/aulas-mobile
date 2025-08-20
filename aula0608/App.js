@@ -1,4 +1,4 @@
-import { View, Text } from "react-native";
+import { View, Text, StyleSheet } from "react-native";
 
 export default function App() {
   return (
@@ -13,3 +13,9 @@ export default function App() {
     </View>
   );
 }
+
+const estilos = StyleSheet.create({
+textoRoxo:{
+  color: 'purple'
+}
+})
