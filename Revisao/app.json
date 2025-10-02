@@ -1,0 +1,8 @@
+{
+  "name": "Revisao",
+  "slug": "Revisao",
+  "plugins": [
+    "expo-router",
+    "expo-sqlite"
+  ]
+}
